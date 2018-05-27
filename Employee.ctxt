@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Employee()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Employee\r\n
+comment1.params=initialName\ initialIdentityNumber
+comment1.target=Employee(java.lang.String,\ int)
+comment2.params=newName\ newIdentityNumber
+comment2.target=void\ reset(java.lang.String,\ int)
+comment3.params=
+comment3.target=int\ getIdentityNumber()
+comment4.params=newIdentityNumber
+comment4.target=void\ setIdentityNumber(int)
+comment5.params=
+comment5.target=void\ writeOutput()
+numComments=6

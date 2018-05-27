@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Undergraduate()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Undergraduate\r\n
+comment1.params=initialName\ initialStudentNumber\ initialLevel
+comment1.target=Undergraduate(java.lang.String,\ int,\ int)
+comment2.params=newName\ newStudentNumber\ newLevel
+comment2.target=void\ reset(java.lang.String,\ int,\ int)
+comment3.params=
+comment3.target=int\ getLevet()
+comment4.params=newLevel
+comment4.target=void\ setLevel(int)
+comment5.params=
+comment5.target=void\ writeOutput()
+numComments=6
